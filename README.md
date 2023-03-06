@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Jungle;I+am+CodeWhiteWeb;I+am+a+High+school+student+of+Universitas+Pamulang;Web+Dev;Introvet+Lover+%3C3"></a>
 </p>
 
 ---
@@ -17,7 +17,7 @@
 # 💫About Me :
 🔭 I’m currently working on : Nothing
   
-🌱 I’m currently learning : CV using OpenCV python
+🌱 I’m currently learning : Backend Developer with PHP
 
   👯 I’m open to collaborate with anyone
 
@@ -26,11 +26,10 @@
   💬 Ask me about for any help
 
   📫 How to reach me:  
-  Mail me at "web.codewhite@gmail.com" or
-  through website https://codewhiteweb.thedev.id/contact
+  Mail me at "ihyanatikwibowo@gmail.com" or
+  through website https://pancalanmasagi.com
 
-⚡ Fun fact: 7 out of 10 consumers find a company via the blog
-
+⚡ Fun fact: haven't passed yet
 
 <h3>Connect with me:</h3>
 <p>
