@@ -15,9 +15,9 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on : Nothing
+🔭 I’m currently working on : Java Solution Technology
   
-🌱 I’m currently learning : Backend Developer with PHP
+🌱 I’m currently learning : Fullstack Developer
 
   👯 I’m open to collaborate with anyone
 
@@ -27,7 +27,7 @@
 
   📫 How to reach me:  
   Mail me at "ihyanatikwibowo@gmail.com" or
-  through website https://pancalanmasagi.com
+  through portofolio https://portofolio-ihya.netlify.app
 
 ⚡ Fun fact: haven't passed yet
 
