@@ -7,7 +7,7 @@ Welcome to Ihya's Profile 👋
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Backend+Engineer;Golang+%7C+Java+%7C+NodeJS;Kafka+%7C+Microservices;Building+Scalable+Systems">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Backend+Engineer;Golang+%7C+Java+%7C+NodeJS;Kafka+%7C+Microservices;Kubernetes+%7C+Cloud+Enthusiast">
 </p>
 
 ---
@@ -17,7 +17,7 @@ Welcome to Ihya's Profile 👋
 # 💫 About Me
 
 🔭 Backend Engineer focused on scalable systems  
-🌱 Learning System Design & Cloud Architecture  
+🌱 Learning System Design, Kubernetes & Cloud Architecture  
 👯 Open for Backend / Microservices Collaboration  
 💬 Ask me about Golang, Kafka, API Design, Docker  
 
@@ -41,21 +41,29 @@ Welcome to Ihya's Profile 👋
 ### 🔄 Messaging & Integration
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/MQTT_Logo.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mqtt.svg" width="40"/>
 </p>
 
-### ⚙️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,linux,git" />
+### ⚙️ DevOps & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git" />
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWhiteWeb&layout=compact&theme=tokyonight&hide_border=true" />
+
+---
+
+<!-- OPTIONAL (aktifkan kalau mau, tapi ini kadang error) -->
+<!--
 <img src="https://streak-stats.demolab.com?user=CodeWhiteWeb&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWhiteWeb&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWhiteWeb&theme=tokyo-night" />
+-->
 
 ---
 
