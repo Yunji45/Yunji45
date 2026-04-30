@@ -10,7 +10,7 @@ Welcome to Ihya's Profile
 
 <p align="center">
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Backend+Engineer;Golang+%7C+Java+%7C+NodeJS;Kafka+%7C+Microservices+Enthusiast;Building+Scalable+Systems">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Backend+Engineer;Golang+%7C+Java+%7C+NodeJS;Kafka+%7C+Microservices;Building+Scalable+Systems">
   </a>
 </p>
 
@@ -20,39 +20,55 @@ Welcome to Ihya's Profile
 
 # 💫 About Me
 
-🔭 Currently working on: **Backend & Distributed Systems**  
-🌱 Currently learning: **System Design & Cloud Architecture**  
-👯 Open for: **Collaboration on Backend / Microservices Projects**  
+🔭 **Backend Engineer focused on scalable systems**  
+🌱 Learning: **System Design & Cloud Architecture**  
+👯 Open for: **Backend / Microservices Collaboration**  
 💬 Ask me about: **Golang, Kafka, API Design, Docker**  
 
-📫 Reach me at:  
-- Email: **ihyanatikwibowo@gmail.com**  
-- Portfolio: https://portofolio-ihya.netlify.app  
+📫 Reach me:  
+- 📧 ihyanatikwibowo@gmail.com  
+- 🌐 https://portofolio-ihya.netlify.app  
 
-⚡ Fun fact: *Still learning, always improving*
+⚡ *Always learning, always improving*
 
 ---
 
 # 💻 Tech Stack
 
 ### 🚀 Backend
-Golang • Java (Quarkus, Spring Boot) • Node.js (NestJS) • PHP  
+<p>
+<img src="https://skillicons.dev/icons?i=go,java,spring,nodejs,nestjs,php" />
+</p>
 
 ### ⚡ Frontend
-Vue.js • Next.js  
+<p>
+<img src="https://skillicons.dev/icons?i=vue,nextjs" />
+</p>
 
 ### 🗄️ Database
-PostgreSQL • Oracle • MySQL • Redis  
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+<img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40"/>
+</p>
 
 ### 🔄 Messaging & Integration
-Kafka • MQTT • SNMP  
+<p>
+<img src="https://skillicons.dev/icons?i=kafka" />
+<img src="https://www.vectorlogo.zone/logos/eclipse_mosquitto/eclipse_mosquitto-icon.svg" width="40"/>
+</p>
 
 ### ⚙️ DevOps & Tools
-Docker • Git • CI/CD • Linux  
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,git" />
+</p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWhiteWeb&theme=tokyonight&hide_border=true" />
 
 [![Code's github activity graph](https://githubraw.com/CodeWhiteWeb/CodeWhiteWeb/output/github-contribution-grid-snake.svg)](https://skyline.github.com/CodeWhiteWeb)
 
@@ -60,11 +76,11 @@ Docker • Git • CI/CD • Linux
 
 ### 🤓 Fun Section
 
-[![Readme Riddle](https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/CodeWhiteWeb/github-readme-riddle)
+[![Readme Riddle](https://github-readme-riddle.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/CodeWhiteWeb/github-readme-riddle)
 
 ---
 
-![Profile_Views](https://komarev.com/ghpvc/?username=CodeWhiteWeb&style=for-the-badge&label=Visitors+Count&color=brightgreen)
+![Profile_Views](https://komarev.com/ghpvc/?username=CodeWhiteWeb&style=for-the-badge&label=Visitors&color=blue)
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
